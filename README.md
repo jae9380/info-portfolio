@@ -54,7 +54,7 @@
 
 | ✏️  **공고에 지원하기 기능** | ✅ **지원서 승인 기능** | 📧 **이메일 본인인증 기능** |
 |--------|--------|--------|
-| <img src="https://https://postimg.cc/fkCpCp99" width="280px"> | <img src="https://i.postimg.cc/L5c8RqCT/v2.gif" width="280px"> | <img src="https://i.postimg.cc/GtcZDbBC/v5.gif" width="280px"> |
+| <img src="https://i.postimg.cc/MKJw68Zd/v1.gif" width="280px"> | <img src="https://i.postimg.cc/L5c8RqCT/v2.gif" width="280px"> | <img src="https://i.postimg.cc/GtcZDbBC/v5.gif" width="280px"> |
 
 | 📍 **공고 지도 기능** | 💸 **알바비 결제 기능** |
 |--------|--------|
