@@ -30,30 +30,35 @@
 ## 🧰 Skils
 
 - **Backend**
+  
+<p align="center">
+  <img src="https://i.postimg.cc/fR2YXsLh/Backend.png" width="600px"/><br/><br/><br/>
+</p>
 
-![Backend.png](attachment:f4abc74b-c9c6-4a1b-a39a-27cce793ee4f:Backend.png)
 
 - **Fronted**
 
-![Frontend.png](attachment:d66cb772-3109-4e03-9f26-2a993da4c32f:Frontend.png)
+<p align="center">
+  <img src="https://i.postimg.cc/g01RSK8S/Frontend.png" width="600px"/><br/><br/><br/>
+</p>
+
 
 - **Infra**
 
-![Infra.png](attachment:a428ab38-53ba-4412-bc87-873ef0e6f6e0:Infra.png)
+<p align="center">
+  <img src="https://i.postimg.cc/L5pPR6yj/Infra.png" width="600px"/><br/><br/><br/>
+</p>
+
 
 ## ⛑️ **Demo Video**
 
-| ✏️  **공고에 지원하기 기능** | ✅ **지원서 승인 기능** |
-|--------|--------|
-| <img src="https://i.postimg.cc/MKJw68Zd/v1.gif" width="280px"> | <img src="https://i.postimg.cc/L5c8RqCT/v2.gif" width="280px"> |
+| ✏️  **공고에 지원하기 기능** | ✅ **지원서 승인 기능** | 📧 **이메일 본인인증 기능** |
+|--------|--------|--------|
+| <img src="https://https://postimg.cc/fkCpCp99" width="280px"> | <img src="https://i.postimg.cc/L5c8RqCT/v2.gif" width="280px"> | <img src="https://i.postimg.cc/GtcZDbBC/v5.gif" width="280px"> |
 
 | 📍 **공고 지도 기능** | 💸 **알바비 결제 기능** |
 |--------|--------|
 | <img src="https://i.postimg.cc/Y0KSBGyx/v3.gif" width="280px"> | <img src="https://i.postimg.cc/7YPkGn72/v4.gif" width="280px"> |
-
-| 📧 **이메일 본인인증 기능**|
-|--------|
-| <img src="https://i.postimg.cc/GtcZDbBC/v5.gif" width="280px"> |
 
 
 ---
