@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://i.postimg.cc/h4kyz9Y0/p1.png" width="600px"/><br/><br/><br/>
 </p>
-<a href="https://www.goohaeyou.site/">사이트 바로가기</a>
-  <br/>PC/모바일 겸용<br/>
 
   [Goo Hae You 이동](https://www.goohaeyou.site/)
 <br>
